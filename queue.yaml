@@ -1,0 +1,4 @@
+queue:
+- name: queue-blue
+  target: v2.task-module
+  rate: 5/s
